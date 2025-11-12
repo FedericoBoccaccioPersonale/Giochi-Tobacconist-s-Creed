@@ -1,5 +1,5 @@
 # Giochi\Tobacconist’s Creed 🎮 🇮🇹
-https://github.dev/FedericoBoccaccioPersonale/Giochi-Tobacconist-s-Creed
+https://federicoboccaccio.wordpress.com/tobacconists-creed/
 
 # Importante
 ⚠️ I file "Source code (.zip)" e "Source code (.tar.gz)" sono generati automaticamente da GitHub.<br>
@@ -13,4 +13,5 @@ Puoi tranquillamente scaricare dalla release o giocare on line.
 
 # Informazioni
 Su GitHub c' è il repository principale, su GitLab è presente il suo clone per backup.
+
 Puoi anche scaricare il gioco da Itch.
